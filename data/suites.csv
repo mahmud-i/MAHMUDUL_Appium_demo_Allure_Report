@@ -12,4 +12,4 @@ And fill Checkout Information
 And fill Payment Information
 And click on Place Order button
 And click on Continue Shopping button
-Then user should return to Home screen","36518","test_checkout_order","tests","Wed Mar 26 20:11:53 BDT 2025","passed","Wed Mar 26 20:12:30 BDT 2025","TestDemoApp","test_app","",""
+Then user should return to Home screen","37025","test_checkout_order","tests","Thu Mar 27 02:22:02 BDT 2025","passed","Thu Mar 27 02:22:39 BDT 2025","TestDemoApp","test_app","",""
